@@ -1,5 +1,14 @@
 function Mostrar()
-{
+{var contador
+    for(contador=0;;contador++)
+{ 
+if (contador==1001)
+{break;
+}
+console.log(contador)
+}
+
+
 
 
 
